@@ -1,0 +1,36 @@
+@media (min-width: 1200px) {
+
+}
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 978px) {
+
+}
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+@media (max-width: 767px) {
+    .navbar-header{
+        float: left;
+    }
+    .profile .dropdown-menu{
+        position: absolute;
+    }
+}
+@media (max-width: 480px) {
+    .navbar-header{
+        float: left;
+    }
+    .profile .dropdown-menu{
+        position: absolute;
+    }
+}
+@media (max-width: 320px) {
+    .navbar-header{
+        float: left;
+    }
+    .profile .dropdown-menu{
+        position: absolute;
+    }
+}
