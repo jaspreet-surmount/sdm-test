@@ -17,7 +17,7 @@ class HomeController extends Controller
      */
     public function __construct()
     {
-        echo '............NOT....iiis it done???';
+        echo '!!!!!!!!!!!!!!!!!!!!!!............NOT....iiis it done???';
 	echo 'surmount with jenkins testing';
         $this->middleware('auth');
     }
