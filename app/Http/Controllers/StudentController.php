@@ -33,6 +33,7 @@ class StudentController extends Controller
      */
     public function __construct(Student $student, Program $program, User $user)
     {
+        echo 'Testing...';
         $this->student = $student;
         $this->program = $program;
         $this->user    = $user;
